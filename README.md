@@ -4,4 +4,4 @@
 
 -> create a HEAT-MAP in matlab (with contourf ??
 
--> cumming plot ?  (with DABEST toolbox)
+-> cumming estimationplot ?  (with DABEST toolbox)
